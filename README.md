@@ -67,6 +67,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Open Economic Data](https://openeconomicdata.org/) – Index of open economic datasets.
 - [Eulerpool](https://eulerpool.com/developers) – Financial data API with macroeconomic series from FRED, ECB, IMF, World Bank, Eurostat, OECD and BIS.
 - [Quotelinks Credit Market Data](https://www.quotelinks.com/api/credit-market-data/) – Free JSON API for the NY Fed corporate bond distress index, Treasury HQM corporate yield curve and CFTC credit default swap data.
+- [FlowFeed](https://flowfeed.cc) – Real-time central bank releases, economic calendar (actual vs forecast) and macro news for AI agents, via a paid remote MCP server.
 
 ## Computational Economics
 
